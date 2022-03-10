@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub Profile](https://github.com/gdimasi#:~:text=Set%20status-,Your%20profile,-Your%20repositories)
